@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc72fe31.css",
+    "main.js": "/static/js/main.5b46e1d6.js",
+    "static/js/787.12a3e8b9.chunk.js": "/static/js/787.12a3e8b9.chunk.js",
+    "static/media/quantumBook.png": "/static/media/quantumBook.e7c6f046829a27abd33d.png",
+    "static/media/Photo.jpg": "/static/media/Photo.fdd5179aacba3ecd7c42.jpg",
+    "static/media/phpLogo.png": "/static/media/phpLogo.0fc75d0329abe173336d.png",
+    "static/media/dartLogo.png": "/static/media/dartLogo.064d4637f74cf55a0e3c.png",
+    "static/media/backgroundColor1.jpg": "/static/media/backgroundColor1.12d6a7d78f1f84047ad4.jpg",
+    "static/media/insta-transparent-505896.png": "/static/media/insta-transparent-505896.7f7161e4533d123dfd76.png",
+    "static/media/insta-transparent-f8c37d.png": "/static/media/insta-transparent-f8c37d.df06cc8177e56d75ccbc.png",
+    "static/media/5Stars.png": "/static/media/5Stars.43b1922151c124f9a878.png",
+    "static/media/reactLogo.png": "/static/media/reactLogo.be803f3293f49b93e89f.png",
+    "static/media/github-transparent-505896.png": "/static/media/github-transparent-505896.4cc66f72e7b1fdd3c6e6.png",
+    "static/media/github-transparent-f8c37d.png": "/static/media/github-transparent-f8c37d.a55ec692ad59a0ebbe87.png",
+    "static/media/javascriptLogo.png": "/static/media/javascriptLogo.8fa4c1ba05b5dd7aed69.png",
+    "static/media/flutterLogo.png": "/static/media/flutterLogo.3626fb61e347b56f07a9.png",
+    "static/media/laravelLogo.jpg": "/static/media/laravelLogo.aeca3c030b1910f33ff2.jpg",
+    "static/media/youtube-transparent-505896.png": "/static/media/youtube-transparent-505896.9a9046e7dfcef524ae11.png",
+    "static/media/youtube-transparent-f8c37d.png": "/static/media/youtube-transparent-f8c37d.79a7d9755bf491141c0f.png",
+    "index.html": "/index.html",
+    "main.cc72fe31.css.map": "/static/css/main.cc72fe31.css.map",
+    "main.5b46e1d6.js.map": "/static/js/main.5b46e1d6.js.map",
+    "787.12a3e8b9.chunk.js.map": "/static/js/787.12a3e8b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc72fe31.css",
+    "static/js/main.5b46e1d6.js"
+  ]
+}
