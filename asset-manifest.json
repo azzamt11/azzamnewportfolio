@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cc72fe31.css",
-    "main.js": "/static/js/main.5b46e1d6.js",
+    "main.js": "/static/js/main.0f9ef819.js",
     "static/js/787.12a3e8b9.chunk.js": "/static/js/787.12a3e8b9.chunk.js",
     "static/media/quantumBook.png": "/static/media/quantumBook.e7c6f046829a27abd33d.png",
     "static/media/Photo.jpg": "/static/media/Photo.fdd5179aacba3ecd7c42.jpg",
@@ -21,11 +21,11 @@
     "static/media/youtube-transparent-f8c37d.png": "/static/media/youtube-transparent-f8c37d.79a7d9755bf491141c0f.png",
     "index.html": "/index.html",
     "main.cc72fe31.css.map": "/static/css/main.cc72fe31.css.map",
-    "main.5b46e1d6.js.map": "/static/js/main.5b46e1d6.js.map",
+    "main.0f9ef819.js.map": "/static/js/main.0f9ef819.js.map",
     "787.12a3e8b9.chunk.js.map": "/static/js/787.12a3e8b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc72fe31.css",
-    "static/js/main.5b46e1d6.js"
+    "static/js/main.0f9ef819.js"
   ]
 }
