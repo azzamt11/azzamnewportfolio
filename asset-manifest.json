@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5516d1d.css",
-    "main.js": "/static/js/main.c95a9da0.js",
+    "main.css": "/static/css/main.cc72fe31.css",
+    "main.js": "/static/js/main.2f7a44fa.js",
     "static/js/787.12a3e8b9.chunk.js": "/static/js/787.12a3e8b9.chunk.js",
+    "static/media/quantumBook.png": "/static/media/quantumBook.e7c6f046829a27abd33d.png",
     "static/media/Photo.jpg": "/static/media/Photo.fdd5179aacba3ecd7c42.jpg",
-    "static/media/fictuneGiv.gif": "/static/media/fictuneGiv.b4324804a1ab66662374.gif",
     "static/media/phpLogo.png": "/static/media/phpLogo.0fc75d0329abe173336d.png",
     "static/media/dartLogo.png": "/static/media/dartLogo.064d4637f74cf55a0e3c.png",
     "static/media/backgroundColor1.jpg": "/static/media/backgroundColor1.12d6a7d78f1f84047ad4.jpg",
@@ -20,12 +20,12 @@
     "static/media/youtube-transparent-505896.png": "/static/media/youtube-transparent-505896.9a9046e7dfcef524ae11.png",
     "static/media/youtube-transparent-f8c37d.png": "/static/media/youtube-transparent-f8c37d.79a7d9755bf491141c0f.png",
     "index.html": "/index.html",
-    "main.c5516d1d.css.map": "/static/css/main.c5516d1d.css.map",
-    "main.c95a9da0.js.map": "/static/js/main.c95a9da0.js.map",
+    "main.cc72fe31.css.map": "/static/css/main.cc72fe31.css.map",
+    "main.2f7a44fa.js.map": "/static/js/main.2f7a44fa.js.map",
     "787.12a3e8b9.chunk.js.map": "/static/js/787.12a3e8b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5516d1d.css",
-    "static/js/main.c95a9da0.js"
+    "static/css/main.cc72fe31.css",
+    "static/js/main.2f7a44fa.js"
   ]
 }
