@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6252d8c0.css",
-    "main.js": "/static/js/main.62f0b9b8.js",
+    "main.css": "/static/css/main.901fbe1e.css",
+    "main.js": "/static/js/main.12530d51.js",
     "static/js/787.12a3e8b9.chunk.js": "/static/js/787.12a3e8b9.chunk.js",
     "static/media/quantumBook.png": "/static/media/quantumBook.e7c6f046829a27abd33d.png",
     "static/media/Photo.jpg": "/static/media/Photo.fdd5179aacba3ecd7c42.jpg",
@@ -21,12 +21,12 @@
     "static/media/youtube-transparent-505896.png": "/static/media/youtube-transparent-505896.9a9046e7dfcef524ae11.png",
     "static/media/youtube-transparent-f8c37d.png": "/static/media/youtube-transparent-f8c37d.79a7d9755bf491141c0f.png",
     "index.html": "/index.html",
-    "main.6252d8c0.css.map": "/static/css/main.6252d8c0.css.map",
-    "main.62f0b9b8.js.map": "/static/js/main.62f0b9b8.js.map",
+    "main.901fbe1e.css.map": "/static/css/main.901fbe1e.css.map",
+    "main.12530d51.js.map": "/static/js/main.12530d51.js.map",
     "787.12a3e8b9.chunk.js.map": "/static/js/787.12a3e8b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6252d8c0.css",
-    "static/js/main.62f0b9b8.js"
+    "static/css/main.901fbe1e.css",
+    "static/js/main.12530d51.js"
   ]
 }
