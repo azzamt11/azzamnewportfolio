@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.519c3d88.css",
-    "main.js": "/static/js/main.f6618110.js",
+    "main.css": "/static/css/main.be0d2ecf.css",
+    "main.js": "/static/js/main.3c614121.js",
     "static/js/787.12a3e8b9.chunk.js": "/static/js/787.12a3e8b9.chunk.js",
     "static/media/quantumBook.png": "/static/media/quantumBook.e7c6f046829a27abd33d.png",
     "static/media/Photo.jpg": "/static/media/Photo.fdd5179aacba3ecd7c42.jpg",
@@ -17,17 +17,17 @@
     "static/media/github-transparent-505896.png": "/static/media/github-transparent-505896.4cc66f72e7b1fdd3c6e6.png",
     "static/media/github-transparent-f8c37d.png": "/static/media/github-transparent-f8c37d.a55ec692ad59a0ebbe87.png",
     "static/media/javascriptLogo.png": "/static/media/javascriptLogo.8fa4c1ba05b5dd7aed69.png",
+    "static/media/linkedInLogo_505896.png": "/static/media/linkedInLogo_505896.622f71e00a300b127852.png",
+    "static/media/linkedInLogo_f8c37d.png": "/static/media/linkedInLogo_f8c37d.4aa5ef6b7390461bc969.png",
     "static/media/flutterLogo.png": "/static/media/flutterLogo.3626fb61e347b56f07a9.png",
     "static/media/laravelLogo.jpg": "/static/media/laravelLogo.aeca3c030b1910f33ff2.jpg",
-    "static/media/youtube-transparent-505896.png": "/static/media/youtube-transparent-505896.9a9046e7dfcef524ae11.png",
-    "static/media/youtube-transparent-f8c37d.png": "/static/media/youtube-transparent-f8c37d.79a7d9755bf491141c0f.png",
     "index.html": "/index.html",
-    "main.519c3d88.css.map": "/static/css/main.519c3d88.css.map",
-    "main.f6618110.js.map": "/static/js/main.f6618110.js.map",
+    "main.be0d2ecf.css.map": "/static/css/main.be0d2ecf.css.map",
+    "main.3c614121.js.map": "/static/js/main.3c614121.js.map",
     "787.12a3e8b9.chunk.js.map": "/static/js/787.12a3e8b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.519c3d88.css",
-    "static/js/main.f6618110.js"
+    "static/css/main.be0d2ecf.css",
+    "static/js/main.3c614121.js"
   ]
 }
