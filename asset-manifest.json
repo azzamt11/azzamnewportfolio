@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.901fbe1e.css",
-    "main.js": "/static/js/main.12530d51.js",
+    "main.css": "/static/css/main.519c3d88.css",
+    "main.js": "/static/js/main.f6618110.js",
     "static/js/787.12a3e8b9.chunk.js": "/static/js/787.12a3e8b9.chunk.js",
     "static/media/quantumBook.png": "/static/media/quantumBook.e7c6f046829a27abd33d.png",
     "static/media/Photo.jpg": "/static/media/Photo.fdd5179aacba3ecd7c42.jpg",
@@ -11,6 +11,7 @@
     "static/media/backgroundColor1.jpg": "/static/media/backgroundColor1.12d6a7d78f1f84047ad4.jpg",
     "static/media/insta-transparent-505896.png": "/static/media/insta-transparent-505896.7f7161e4533d123dfd76.png",
     "static/media/insta-transparent-f8c37d.png": "/static/media/insta-transparent-f8c37d.df06cc8177e56d75ccbc.png",
+    "static/media/tl.png": "/static/media/tl.e413b9cc80df7979b8a1.png",
     "static/media/5Stars.png": "/static/media/5Stars.43b1922151c124f9a878.png",
     "static/media/reactLogo.png": "/static/media/reactLogo.be803f3293f49b93e89f.png",
     "static/media/github-transparent-505896.png": "/static/media/github-transparent-505896.4cc66f72e7b1fdd3c6e6.png",
@@ -21,12 +22,12 @@
     "static/media/youtube-transparent-505896.png": "/static/media/youtube-transparent-505896.9a9046e7dfcef524ae11.png",
     "static/media/youtube-transparent-f8c37d.png": "/static/media/youtube-transparent-f8c37d.79a7d9755bf491141c0f.png",
     "index.html": "/index.html",
-    "main.901fbe1e.css.map": "/static/css/main.901fbe1e.css.map",
-    "main.12530d51.js.map": "/static/js/main.12530d51.js.map",
+    "main.519c3d88.css.map": "/static/css/main.519c3d88.css.map",
+    "main.f6618110.js.map": "/static/js/main.f6618110.js.map",
     "787.12a3e8b9.chunk.js.map": "/static/js/787.12a3e8b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.901fbe1e.css",
-    "static/js/main.12530d51.js"
+    "static/css/main.519c3d88.css",
+    "static/js/main.f6618110.js"
   ]
 }
